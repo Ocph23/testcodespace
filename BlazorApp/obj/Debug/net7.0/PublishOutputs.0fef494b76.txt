@@ -1,0 +1,12 @@
+/workspaces/testcodespace/BlazorApp/bin/Debug/net7.0/publish/BlazorApp
+/workspaces/testcodespace/BlazorApp/bin/Debug/net7.0/publish/appsettings.Development.json
+/workspaces/testcodespace/BlazorApp/bin/Debug/net7.0/publish/appsettings.json
+/workspaces/testcodespace/BlazorApp/bin/Debug/net7.0/publish/BlazorApp.dll
+/workspaces/testcodespace/BlazorApp/bin/Debug/net7.0/publish/BlazorApp.runtimeconfig.json
+/workspaces/testcodespace/BlazorApp/bin/Debug/net7.0/publish/BlazorApp.pdb
+/workspaces/testcodespace/BlazorApp/bin/Debug/net7.0/publish/Microsoft.EntityFrameworkCore.dll
+/workspaces/testcodespace/BlazorApp/bin/Debug/net7.0/publish/Microsoft.EntityFrameworkCore.Abstractions.dll
+/workspaces/testcodespace/BlazorApp/bin/Debug/net7.0/publish/Microsoft.EntityFrameworkCore.Relational.dll
+/workspaces/testcodespace/BlazorApp/bin/Debug/net7.0/publish/MySqlConnector.dll
+/workspaces/testcodespace/BlazorApp/bin/Debug/net7.0/publish/Pomelo.EntityFrameworkCore.MySql.dll
+/workspaces/testcodespace/BlazorApp/bin/Debug/net7.0/publish/BlazorApp.deps.json
